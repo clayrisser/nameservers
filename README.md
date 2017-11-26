@@ -4,6 +4,13 @@ List your nameservers
 
 
 ## Installation
+```sh
+curl -L -o nameservers https://github.com/jamrizzi/nameservers/releases/download/v0.1.0/nameservers
+chmod +x /bin/nameservers
+```
+
+
+## Build
 
 ```sh
 git clone https://github.com/jamrizzi/nameservers.git
