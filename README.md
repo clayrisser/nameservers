@@ -4,8 +4,16 @@ List your nameservers
 
 
 ## Installation
+
+### Ubuntu
 ```sh
-sudo curl -L -o /bin/nameservers https://github.com/jamrizzi/nameservers/releases/download/v0.1.0/nameservers
+curl -L -o /bin/nameservers https://github.com/jamrizzi/nameservers/releases/download/v0.1.0/nameservers.deb
+sudo dpkg -i nameservers.deb
+```
+
+### Linux
+```sh
+curl -L -o /bin/nameservers https://github.com/jamrizzi/nameservers/releases/download/v0.1.0/nameservers
 sudo chmod +x /bin/nameservers
 ```
 

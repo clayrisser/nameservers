@@ -20,5 +20,5 @@
 ~*
 
 # Application
-nameservers
-template.txt
+dist/
+nameservers.deb

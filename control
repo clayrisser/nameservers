@@ -1,0 +1,11 @@
+Source: nameservers
+Section: devel
+Priority: optional
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Jam Risser <jam@jamrizzi.com>
+Version: 0.1.0
+Vcs-Bzr: lp:ubuntu/hello
+Homepage: https://jam.jamrizzi.com
+Package: nameservers
+Architecture: amd64
+Description: List your nameservers
